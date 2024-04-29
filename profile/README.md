@@ -29,7 +29,30 @@ By joining our networks you agree to follow the [CLAIRE Code of Conduct](docs/cl
 </div>
 </div>
 
-<link rel="stylesheet" href="assets/style.css">
+<style>
+.leaders-grid {
+    display: flex;
+    flex-wrap: wrap
+}
+.leader {
+    width: 25%;
+    margin: 0 1%;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.leader img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+@media screen and (max-width: 768px) {
+    .leader {
+        width: 100%;
+    }
+}
+</style>
+
+--- 
 
 Stay tuned for updates: www.clairecommunity.org
 
