@@ -17,19 +17,19 @@ By joining our networks you agree to follow the [CLAIRE Code of Conduct](docs/cl
 
 <div class="leaders-grid">
 <div class="leader">
-  <img src="../assets/leaders/lakshmi.jpg" alt="Lakshmi">
+  <img src="assets/leaders/lakshmi.jpg" alt="Lakshmi">
   <h3>Lakshmi</h3>
   <p>Technical Product Manager</p>
 </div>
 
 <div class="leader">
-  <img src="../assets/leaders/airat.jpg" alt="Airat">
+  <img src="assets/leaders/airat.jpg" alt="Airat">
   <h3>Airat</h3>
   <p>Software Engineer</p>
 </div>
 </div>
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="assets/style.css">
 
 Stay tuned for updates: www.clairecommunity.org
 
