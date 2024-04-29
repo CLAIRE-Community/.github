@@ -12,6 +12,25 @@ By joining our networks you agree to follow the [CLAIRE Code of Conduct](docs/cl
 
 ### [Join us on Slack](https://join.slack.com/t/clairecommunity/shared_invite/zt-2h5etzxd2-cwjZRFhY5XdI1~484u_L7A)
 
+---
+## Community Leaders
+
+<div class="leaders-grid">
+<div class="leader">
+  <img src="../assets/leaders/lakshmi.jpg" alt="Lakshmi">
+  <h3>Lakshmi</h3>
+  <p>Technical Product Manager</p>
+</div>
+
+<div class="leader">
+  <img src="../assets/leaders/airat.jpg" alt="Airat">
+  <h3>Airat</h3>
+  <p>Software Engineer</p>
+</div>
+</div>
+
+<link rel="stylesheet" href="style.css">
+
 Stay tuned for updates: www.clairecommunity.org
 
 Please reach out with any questions to our team of admins on Slack or LinkedIn or send an email to hello@clairecommunity.org
