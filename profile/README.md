@@ -10,7 +10,7 @@ By joining our networks you agree to follow the [CLAIRE Code of Conduct](docs/cl
 
 ### [Join us on LinkedIn](https://www.linkedin.com/showcase/claire-hub/)
 
-### [Join us on Slack](https://join.slack.com/t/clairecommunity/shared_invite/zt-2h5etzxd2-cwjZRFhY5XdI1~484u_L7A)
+### [Join us on Slack](https://forms.gle/FtV3x8YWRgtLrbLk7)
 
 Stay tuned for updates: www.clairecommunity.org
 
