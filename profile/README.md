@@ -1,6 +1,4 @@
-
-![v3 CLAIRE Temp CENTER banner - with INDIGO background](assets/claire_indigo_center_logo_banner_background.png)
-
+![v3 CLAIRE Temp CENTER banner - with INDIGO background](https://github.com/CLAIRE-Community/.github/blob/main/assets/claire_indigo_center_logo_banner_background.png?raw=true)
 
 ## Hi there 👋, welcome to CLAIRE - An open source Cloud x AI Resource Exchange
 
@@ -25,5 +23,5 @@ Please reach out with any questions to our team of admins on Slack or LinkedIn o
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![CLAIRE Temp Banner - with BLACK background](assets/claire_black_banner_background.png)
-![CLAIRE Temp banner - with INDIGO background](assets/claire_indigo_banner_background.png)
+![CLAIRE Temp Banner - with BLACK background](https://github.com/CLAIRE-Community/.github/blob/main/assets/claire_black_banner_background.png?raw=true)
+![CLAIRE Temp banner - with INDIGO background](https://github.com/CLAIRE-Community/.github/blob/main/assets/claire_indigo_banner_background.png?raw=true)
