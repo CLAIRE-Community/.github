@@ -4,7 +4,7 @@
 
 We're here to bring Cloud and AI down to earth by sharing resources, building community, and demystifying the fundamentals with our Cloud 101 and AI 101 series. 
 
-By joining our networks you agree to follow the [CLAIRE Code of Conduct](docs/claire_code_of_conduct.pdf) and consent to the [CLAIRE Privacy Policy](docs/claire_privacy_policy.pdf).
+By joining our networks you agree to follow the [CLAIRE Code of Conduct](https://github.com/CLAIRE-Community/.github/blob/main/docs/claire_code_of_conduct.pdf) and consent to the [CLAIRE Privacy Policy](https://github.com/CLAIRE-Community/.github/blob/main/docs/claire_privacy_policy.pdf).
 
 ### [Join us on LinkedIn](https://www.linkedin.com/showcase/claire-hub/)
 
