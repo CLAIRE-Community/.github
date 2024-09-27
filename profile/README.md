@@ -26,12 +26,14 @@ Check back soon for more workshops and resources!
 
 ---
 
+## Stay Connected:
+- 🌐 **Website**: [www.clairecommunity.org](http://www.clairecommunity.org)
+- 📩 **Email**: hello@clairecommunity.org
+- ✨ **LinkedIn**: [Join us on LinkedIn](https://www.linkedin.com/showcase/claire-hub/)
+- 💬 **Slack**: [Join us on Slack](https://forms.gle/FtV3x8YWRgtLrbLk7)
+
+---
 By joining our networks you agree to follow the [CLAIRE Code of Conduct](https://github.com/CLAIRE-Community/.github/blob/main/docs/claire_code_of_conduct.pdf) and consent to the [CLAIRE Privacy Policy](https://github.com/CLAIRE-Community/.github/blob/main/docs/claire_privacy_policy.pdf).
-
-### [Join us on LinkedIn](https://www.linkedin.com/showcase/claire-exchange/)
-
-### [Join us on Slack](https://forms.gle/FtV3x8YWRgtLrbLk7)
-
 
 
 Stay tuned for updates: www.clairecommunity.org
